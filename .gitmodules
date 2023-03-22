@@ -1,0 +1,3 @@
+[submodule "server-release"]
+	path = server-release
+	url = git@q5.xlgames.com:dg/server-release.git
